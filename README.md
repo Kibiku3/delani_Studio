@@ -1,5 +1,5 @@
 # DELANI STUDIO
-Know the day you were born, Know your Akan Name!
+Where amazing people are making amazing designs in a fun environment!
 
 ## Table of Contents
 * [General information](#general-information)
